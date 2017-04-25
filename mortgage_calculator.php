@@ -1,10 +1,10 @@
 <?php
 /*
 Plugin Name: Mortgage Calculator
-Plugin URI: http://legacysolutions.co.ke
+Plugin URI: http://github.com/tunapanda
 Description: Testing out jquery
 Version: 0.1
-Author URI: http://legacysolutions.co.ke
+Author URI: http://tunapanda.org
 */
 
 
